@@ -1,0 +1,12 @@
+pwd — покажи в какой я папке;
+ls — покажи файлы в папке, где я сейчас;
+cd first-project — перейди в папку first-project;
+cd first-project/html — перейди в папку html, находящуюся в папке first-project;
+cd .. — перейди на уровень выше в родительскую папку;
+cd ~ — перейди в домашнюю директорию (у нас это /Users/stas_basov);
+mkdir second-project — в текущей папке создай папку с именем second-project;
+rm about.html — удали файл about.html;
+rmdir images — удали папку images;
+rm -r second-project — удали папку second-project и всё, что она содержит;
+touch index.html — создай файл index.html в текущей папке;
+touch index.html style.css script.js — если нужно создать несколько файлов, их имена можно вводить через пробел.
